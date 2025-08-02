@@ -18,7 +18,7 @@
   예시: java/spring-basic_김지현.md
         python/django-tutorial_신은영.md
         cs/algorithm-study_Eunice.md
-        database/mysql-optimization_Jiyun.md
+        database/mysql-optimization_Jihyun.md
   ```
 
 ### Workflow
